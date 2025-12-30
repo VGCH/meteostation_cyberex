@@ -21,7 +21,7 @@
 ![Интерфейс главной страницы](https://github.com/VGCH/meteostation_cyberex/blob/main/img/main_page.png)
 
 
-![Интерфейс конфигурации MQTT](https://github.com/VGCH/meteostation_cyberex/blob/main/img/main_page.png)
+![Интерфейс конфигурации MQTT](https://github.com/VGCH/meteostation_cyberex/blob/main/img/mqtt_settings.png)
 
 ## Интерфейс метеостанции в Home Assistant
 
